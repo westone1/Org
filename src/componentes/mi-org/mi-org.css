@@ -1,0 +1,19 @@
+.orgsection{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.tittle{
+    font-size:40px ;
+    color:#6278f7;
+    font-weight: 400;
+    padding-bottom: 24px;
+    border-bottom: 4px solid #6278f7;
+}
+.orgsection img{
+    position: absolute;
+    right:200px;
+    cursor: pointer;
+
+}
